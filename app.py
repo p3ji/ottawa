@@ -6,6 +6,7 @@ from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 import time
 import os
+import urllib.parse
 
 # --- STYLING & PAGE INITIALIZATION ---
 st.set_page_config(
@@ -602,12 +603,13 @@ for idx, row in df_filtered.iterrows():
     else:
         road_info_html = f"<b>Distance to Home:</b> {row['distance_km']} km"
         
+    gmaps_url = f"https://www.google.com/maps/search/?api=1&query={urllib.parse.quote(row['facility_name'] + ', ' + row['address'])}"
     popup_content = f"""
     <div style="font-family:'Outfit', sans-serif; min-width: 220px;">
         <h4 style="margin:0 0 5px 0; color:#0f172a; font-weight:600;">{row['facility_name']}</h4>
         <span class="badge badge-sector">{row['sector']} Sector</span><br>
         <p style="margin:8px 0; font-size:12px; color:#475569;">
-            <b>Address:</b> {row['address']}<br>
+            <b>Address:</b> <a href="{gmaps_url}" target="_blank" style="color:#0d9488; text-decoration:underline;">{row['address']}</a><br>
             {road_info_html}
         </p>
         <div style="margin-bottom: 12px;">{amenities_html}</div>
@@ -662,6 +664,12 @@ if not df_filtered.empty:
         display_df["Drive Time"] = display_df["drive_time_mins"].apply(lambda x: f"🚗 {x} mins" if x is not None else "N/A")
         display_df["Road Distance"] = display_df["road_distance_km"].apply(lambda x: f"🛣️ {x} km" if x is not None else "N/A")
         
+    # Generate Google Maps search URL for each facility
+    display_df["Google Maps"] = display_df.apply(
+        lambda r: f"https://www.google.com/maps/search/?api=1&query={urllib.parse.quote(r['facility_name'] + ', ' + r['address'])}",
+        axis=1
+    )
+    
     # Rename columns for presentation
     display_df = display_df.rename(columns={
         "facility_name": "Facility Name",
@@ -672,9 +680,9 @@ if not df_filtered.empty:
     
     # Select specific columns to show
     if has_road:
-        show_cols = ["Facility Name", "Sector", "Drive Time", "Road Distance", "Straight-line (km)", "Pool", "Arena", "Address"]
+        show_cols = ["Facility Name", "Sector", "Drive Time", "Road Distance", "Straight-line (km)", "Pool", "Arena", "Google Maps", "Address"]
     else:
-        show_cols = ["Facility Name", "Sector", "Straight-line (km)", "Pool", "Arena", "Address"]
+        show_cols = ["Facility Name", "Sector", "Straight-line (km)", "Pool", "Arena", "Google Maps", "Address"]
     
     # Styled Streamlit DataFrame
     st.dataframe(
@@ -684,6 +692,9 @@ if not df_filtered.empty:
         column_config={
             "Straight-line (km)": st.column_config.NumberColumn(
                 format="%.1f km"
+            ),
+            "Google Maps": st.column_config.LinkColumn(
+                display_text="🗺️ Open Maps ↗"
             )
         }
     )
