@@ -342,7 +342,7 @@ def geocode_custom_address(address_str):
 
 # Top Banner Title
 st.markdown('<div class="gradient-header">Ottawa Recreation Discovery Map</div>', unsafe_allow_html=True)
-st.markdown('<div class="gradient-subheader">A visual pre-search tool for parents to filter facilities by proximity, amenities, and sectors before registering for Summer Camps.</div>', unsafe_allow_html=True)
+st.markdown('<div class="gradient-subheader">A visual discovery tool for parents to find new facilities by proximity, amenities, and sectors.</div>', unsafe_allow_html=True)
 
 # Main Facilities Dataframe
 df_facilities = get_facilities_data()
