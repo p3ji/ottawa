@@ -1,0 +1,1658 @@
+[
+    {
+        "facility_name": "Albion-Heatherington Recreation Centre",
+        "address": "Albion Heatherington Community Centre, 1560, Heatherington Road",
+        "latitude": 45.373205,
+        "longitude": -75.6478005,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Alexander Community Centre",
+        "address": "Alexander Community Centre, 960, Silver Street",
+        "latitude": 45.380568,
+        "longitude": -75.7314337,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Alfred Taylor Recreation Centre",
+        "address": "Alfred Taylor Recreation Centre, Community Way, Rideau-Jock",
+        "latitude": 45.1301934,
+        "longitude": -75.7108657,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Alta Vista Public School",
+        "address": "Alta Vista Public School, 1349, Randall Avenue",
+        "latitude": 45.3838681,
+        "longitude": -75.6645258,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Aquaview Community Hall",
+        "address": "Aquaview Drive, Avalon, Orléans",
+        "latitude": 45.4574184,
+        "longitude": -75.473777,
+        "sector": "East",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Arch Street Public School",
+        "address": "Arch Street Public School, 2129, Arch Street",
+        "latitude": 45.3919808,
+        "longitude": -75.6294212,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Atrium Park",
+        "address": "Atrium Park, 886, Riverside South-Findlay Creek",
+        "latitude": 45.2603783,
+        "longitude": -75.6926707,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Avalon Public School",
+        "address": "Avalon Public School, 2080, Portobello Boulevard",
+        "latitude": 45.4582399,
+        "longitude": -75.4667737,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Bayshore Community Building",
+        "address": "Bayshore Park Community Centre, 175, Woodridge Crescent",
+        "latitude": 45.3511451,
+        "longitude": -75.8092969,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Beacon Hill North Community Hall",
+        "address": "Beacon Hill North, Beacon Hill-Cyrville, Ottawa",
+        "latitude": 45.4597452,
+        "longitude": -75.5970062,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Bearbrook Community Centre",
+        "address": "Bearbrook Community Hall, Russell Road, Bearbrook",
+        "latitude": 45.3837169,
+        "longitude": -75.3371686,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Bearbrook Pool",
+        "address": "Wading Pool - Bearbrook, 2679, Innes Road",
+        "latitude": 45.4341683,
+        "longitude": -75.5636703,
+        "sector": "East",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Beaverbrook Pool - Kanata",
+        "address": "Beaverbrook Outdoor Pool, Beaverbrook Road, Beaverbrook",
+        "latitude": 45.3288441,
+        "longitude": -75.9012771,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Bell Centennial Arena",
+        "address": "Bell Centennial Arena, 50, Cassidy Road",
+        "latitude": 45.324706,
+        "longitude": -75.810951,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Bell High School",
+        "address": "Bell High School, 40, Cassidy Road",
+        "latitude": 45.3264476,
+        "longitude": -75.8095646,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Ben Franklin Place",
+        "address": "Ben Franklin Place, 101, College",
+        "latitude": 45.3437454,
+        "longitude": -75.7632223,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Billings Estate National Historic Site",
+        "address": "Billings Estate Museum: Main House, 2100, Cabot Street",
+        "latitude": 45.3897685,
+        "longitude": -75.6727153,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Bingham Park",
+        "address": "Bingham Park, 145, Lowertown",
+        "latitude": 45.4335229,
+        "longitude": -75.6960253,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Blackburn Hamlet Community Hall",
+        "address": "Glen Park Drive, Blackburn Hamlet, Orléans West-Innes",
+        "latitude": 45.4304216,
+        "longitude": -75.5639874,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Bob MacQuarrie Recreation Complex - Orléans",
+        "address": "Bob MacQuarrie Recreation Complex, 1490, Youville Drive",
+        "latitude": 45.4663445,
+        "longitude": -75.5447921,
+        "sector": "East",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Bob Monette Community Center",
+        "address": "Tenth Line Road, Orléans, Orléans East-Cumberland",
+        "latitude": 45.4837871,
+        "longitude": -75.5010811,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Brewer Arena",
+        "address": "Brewer Arena, 151, Brewer Way",
+        "latitude": 45.389248,
+        "longitude": -75.6905204,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Brewer Pool",
+        "address": "Brewer Pool, 100, Brewer Way",
+        "latitude": 45.389347,
+        "longitude": -75.6919117,
+        "sector": "Central",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Briargreen Public School",
+        "address": "Briargreen Public School, 19, Parkfield Crescent",
+        "latitude": 45.3379719,
+        "longitude": -75.777472,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Bridlewood Community Elementary School",
+        "address": "Bridlewood Community Elementary School, 63, Bluegrass Drive",
+        "latitude": 45.2849097,
+        "longitude": -75.8616762,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Britannia Park",
+        "address": "Britannia Park, 2805, Nepean",
+        "latitude": 45.3611414,
+        "longitude": -75.7980097,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Canterbury Recreation Complex",
+        "address": "Canterbury Recreation Complex, 2185, Arch Street",
+        "latitude": 45.3904515,
+        "longitude": -75.6294837,
+        "sector": "East",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "CardelRec Complex (Goulbourn)",
+        "address": "Goulbourn Recreation Complex, 1500, Shea Road",
+        "latitude": 45.263135,
+        "longitude": -75.9078733,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Carleton Heights Community Centre",
+        "address": "Carleton Heights Community Centre, 1665, Apeldoorn Avenue",
+        "latitude": 45.359571,
+        "longitude": -75.7029097,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Carleton Heights Park",
+        "address": "Carleton Heights Park, 1665, River",
+        "latitude": 45.3594685,
+        "longitude": -75.702334,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Carleton Heights Public School",
+        "address": "Carleton Heights Public School, 1660, Prince Of Wales Drive",
+        "latitude": 45.3603339,
+        "longitude": -75.7012166,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Carlington Recreation Centre",
+        "address": "Carlington Recreation Centre, 1520, Caldwell Avenue",
+        "latitude": 45.3724525,
+        "longitude": -75.7391157,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Carp Memorial Hall",
+        "address": "Carp Memorial Hall, 3739, Carp Road",
+        "latitude": 45.3445603,
+        "longitude": -76.0361053,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Cavanagh Community Centre",
+        "address": "Ashton Park and Cavanagh Community Centre, 8930, Rideau-Jock",
+        "latitude": 45.1577674,
+        "longitude": -76.0290746,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Centennial Park",
+        "address": "Centennial Park, 5572, Manotick",
+        "latitude": 45.2207042,
+        "longitude": -75.6882289,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Champagne Fitness Centre",
+        "address": "Champagne Bath Pool, 321, King Edward Avenue",
+        "latitude": 45.4306505,
+        "longitude": -75.6867699,
+        "sector": "Central",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Chapman Mills Community Building",
+        "address": "35126, 424, Chapman Mills Drive",
+        "latitude": 45.2719659,
+        "longitude": -75.7232845,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Charlie Conacher Community Building",
+        "address": "Earl Armstrong Arena, 2020, Ogilvie Road",
+        "latitude": 45.4375275,
+        "longitude": -75.6013395,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Churchill Seniors’ Recreation Centre",
+        "address": "Churchill Seniors Recreation Centre, 345, Richmond Road",
+        "latitude": 45.3922367,
+        "longitude": -75.7544879,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Collège catholique Franco-Ouest",
+        "address": "Collège catholique Franco-Ouest - École secondaire, 411, Seyton Drive",
+        "latitude": 45.3148927,
+        "longitude": -75.8337061,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Constance Bay Community Centre",
+        "address": "Northwind Wireless Fibe Centre, 262, Len Purcell Drive",
+        "latitude": 45.4990711,
+        "longitude": -76.0934129,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Corkery Community Centre",
+        "address": "Corkery Community Centre, 3447, Old Almonte Road",
+        "latitude": 45.2595636,
+        "longitude": -76.0622079,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Corkstown Pool",
+        "address": "Corkstown Outdoor Pool, Corkstown Road, Lakeview",
+        "latitude": 45.3461994,
+        "longitude": -75.8271295,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Craig Henry Community Building",
+        "address": "130 D, Craig Henry Drive, Hillsdale",
+        "latitude": 45.3337468,
+        "longitude": -75.7618948,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Crestview Pool",
+        "address": "Crestview Outdoor Pool, Fieldrow Street, Meadowlands",
+        "latitude": 45.3441754,
+        "longitude": -75.7379751,
+        "sector": "South",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Cumberland Heritage Village Museum",
+        "address": "Cumberland Heritage Village Museum, 2940, Old Montréal Road",
+        "latitude": 45.5178222,
+        "longitude": -75.3911933,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Deborah Anne Kirwan Pool",
+        "address": "Deborah Anne Kirwan Pool, 1300, Kitchener Avenue",
+        "latitude": 45.3674716,
+        "longitude": -75.6574422,
+        "sector": "South",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Dempsey Community Centre",
+        "address": "Dempsey Community Centre, 1895, Russell Road",
+        "latitude": 45.4025858,
+        "longitude": -75.6276651,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Diane Deans Greenboro Community Centre",
+        "address": "Greenboro Community Centre, 363, Lorry Greenberg Drive",
+        "latitude": 45.363304,
+        "longitude": -75.6354695,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Dogwood Park (Munster)",
+        "address": "Dogwood Park, 2890, Rideau-Jock",
+        "latitude": 45.163292,
+        "longitude": -75.9394068,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Earl Armstrong Arena",
+        "address": "Earl Armstrong Arena, 2020, Ogilvie Road",
+        "latitude": 45.4375275,
+        "longitude": -75.6013395,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Entrance Pool",
+        "address": "Entrance Outdoor Pool, Eaton Street, Bells Corners",
+        "latitude": 45.3263142,
+        "longitude": -75.817089,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Eva James Memorial Community Centre",
+        "address": "Amherst Crescent, Barrhaven on the Green, Barrhaven West",
+        "latitude": 45.2728481,
+        "longitude": -75.7541572,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Fairfields Heritage House",
+        "address": "Richmond Road, Woodpark, Bay",
+        "latitude": 45.3734414,
+        "longitude": -75.7789031,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Fallingbrook Community Elementary School",
+        "address": "Fallingbrook Community Elementary School, 679, Deancourt Crescent",
+        "latitude": 45.4813036,
+        "longitude": -75.4868393,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Fisher Park Community Centre",
+        "address": "Fisher Park Community Center, 250, Holland Avenue",
+        "latitude": 45.3953786,
+        "longitude": -75.7305229,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Fitzroy Harbour Community Centre",
+        "address": "Fitzroy Harbour, Ottawa, Eastern Ontario",
+        "latitude": 45.471688,
+        "longitude": -76.214905,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Foster Farm Community Centre",
+        "address": "Foster Farm Community Centre, 1065, Ramsey Crescent",
+        "latitude": 45.3497264,
+        "longitude": -75.7945349,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Four Seasons Park",
+        "address": "Four Seasons Park, 4386, Honey Gables",
+        "latitude": 45.2750521,
+        "longitude": -75.6908867,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "François Dupuis Recreation Centre",
+        "address": "François Dupuis Recreation Centre, 2263, Portobello Boulevard",
+        "latitude": 45.4544879,
+        "longitude": -75.4633271,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Fred G. Barrett Arena",
+        "address": "Fred G. Barrett Arena, 3280, Leitrim Road",
+        "latitude": 45.3311872,
+        "longitude": -75.5978083,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Frederick Banting Secondary Alternate Program",
+        "address": "Frederick Banting Alternate Program (Stittsville), 1453, Stittsville Main Street",
+        "latitude": 45.2615837,
+        "longitude": -75.9211336,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Fringewood Community Centre",
+        "address": "Fringewood Community Centre, 14, Fringewood Drive",
+        "latitude": 45.279369,
+        "longitude": -75.9111739,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Fringewood Park",
+        "address": "Fringewood Park, 14, Stittsville",
+        "latitude": 45.2795998,
+        "longitude": -75.9111968,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "General Burns Pool",
+        "address": "General Burns Outdoor Pool, Chesterton Drive, Borden Farm",
+        "latitude": 45.3515824,
+        "longitude": -75.7201732,
+        "sector": "South",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Genest Pool",
+        "address": "Genest Outdoor Pool, Ste-Cécile Street, Vanier",
+        "latitude": 45.4421948,
+        "longitude": -75.6692684,
+        "sector": "Central",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Glebe Community Centre",
+        "address": "Glebe Community Centre, 175, Third Avenue",
+        "latitude": 45.4021215,
+        "longitude": -75.6914914,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Glen Cairn Community Centre",
+        "address": "Glen Cairn Community Centre, 186, Morrena Road",
+        "latitude": 45.296136,
+        "longitude": -75.8848871,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Greely Community Centre",
+        "address": "Greely Community Centre, 1448, Meadow Drive",
+        "latitude": 45.261109,
+        "longitude": -75.5575084,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Greely Elementary School",
+        "address": "Greely Elementary School, 7066, Parkway Road",
+        "latitude": 45.2605143,
+        "longitude": -75.5631216,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Heron Park",
+        "address": "Heron Park, Capital, Ottawa",
+        "latitude": 45.3772781,
+        "longitude": -75.6739849,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Heron Road Community Centre",
+        "address": "Heron Road Community and Seniors Centre, 1480, Heron Road",
+        "latitude": 45.37887,
+        "longitude": -75.6539905,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Hillcrest High School",
+        "address": "Hillcrest High School, 1900, Dauphin Road",
+        "latitude": 45.398682,
+        "longitude": -75.6400738,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Hintonburg Community Centre",
+        "address": "Hintonburg Community Centre, 1064, Wellington Street West",
+        "latitude": 45.4036315,
+        "longitude": -75.7242827,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Hunt Club-Riverside Park Community Centre",
+        "address": "Hunt Club Riverside Community Centre, 3320, Paul Anka Drive",
+        "latitude": 45.3520615,
+        "longitude": -75.672744,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Huntley Centennial Public School",
+        "address": "Huntley Centennial Public School, 118, Langstaff Drive",
+        "latitude": 45.3462239,
+        "longitude": -76.0299001,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Huntley Community Centre",
+        "address": "Huntley Community Centre Mess Hall, 2240, Craig's Side Road",
+        "latitude": 45.3534264,
+        "longitude": -76.0510866,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Huntley Mess Hall",
+        "address": "Huntley Community Centre Mess Hall, 2240, Craig's Side Road",
+        "latitude": 45.3534264,
+        "longitude": -76.0510866,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "J. A. Dulude Arena",
+        "address": "J. A. Dulude Arena, 941, Clyde Avenue North",
+        "latitude": 45.3745297,
+        "longitude": -75.7465148,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Jack Charron Arena",
+        "address": "Jack Charron Arena (Kanata), 10, McKitrick Drive",
+        "latitude": 45.2936047,
+        "longitude": -75.8839162,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Jack Purcell Community Centre",
+        "address": "Jack Purcell Community Centre, 320, Jack Purcell Lane",
+        "latitude": 45.415824,
+        "longitude": -75.6895655,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Jim Durrell Recreation Centre",
+        "address": "Jim Durrell Recreation Centre, 1265, Alta Vista",
+        "latitude": 45.3731643,
+        "longitude": -75.6591632,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Jockvale Elementary School",
+        "address": "Jockvale Elementary School, 101, Malvern Drive",
+        "latitude": 45.2789633,
+        "longitude": -75.760161,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "John G. Mlacak Centre/Kanata Seniors' Centre",
+        "address": "Mlacak Centre, 2500, Campeau Drive",
+        "latitude": 45.321359,
+        "longitude": -75.8956053,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Johnny Leroux Stittsville Community Arena",
+        "address": "Johnny Leroux Stittsville Community Arena, 10, Warner Colpitts Lane",
+        "latitude": 45.2606635,
+        "longitude": -75.9267004,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Jules Morin Park",
+        "address": "Jules Morin Park, 400, Lowertown",
+        "latitude": 45.4336422,
+        "longitude": -75.6822066,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Kanata Highlands Public School",
+        "address": "Kanata Highlands Public School, 425, Terry Fox Drive",
+        "latitude": 45.3387773,
+        "longitude": -75.9384429,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Kanata Leisure Centre and Wave Pool",
+        "address": "Kanata Leisure Centre and Wave Pool, 70, Aird Place",
+        "latitude": 45.3114204,
+        "longitude": -75.8991301,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Katimavik Outdoor Pool",
+        "address": "Katimavik Outdoor Pool, Chimo Drive, Katimavik",
+        "latitude": 45.3102797,
+        "longitude": -75.8893183,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Katimavik Public School",
+        "address": "Katimavik Elementary School, 64, Chimo Drive",
+        "latitude": 45.3100655,
+        "longitude": -75.8899825,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Ken Ross Park",
+        "address": "Ken Ross Park, 600, Barrhaven East",
+        "latitude": 45.2829509,
+        "longitude": -75.7422694,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Kinburn Community Centre",
+        "address": "Kinburn Community Centre, 3045, Kinburn Side Road",
+        "latitude": 45.3933536,
+        "longitude": -76.1873343,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Klondike Road Park",
+        "address": "Klondike Road Park, 1365, Kanata",
+        "latitude": 45.3493425,
+        "longitude": -75.9376453,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Lansdowne Park",
+        "address": "TD Place Stadium, 1015, Bank Street",
+        "latitude": 45.3984326,
+        "longitude": -75.6835457,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Lois Kemp Arena",
+        "address": "Blackburn Arena, Glen Park Drive, Blackburn Hamlet",
+        "latitude": 45.4302951,
+        "longitude": -75.5638226,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Longfields-Davidson Heights Secondary School",
+        "address": "Longfields Davidson Heights Secondary School, 149, Berrigan Drive",
+        "latitude": 45.2801029,
+        "longitude": -75.7411181,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Lowertown Community Centre and Pool",
+        "address": "Ottawa Lowertown Community Centre and Pool, 40, Cobourg Street",
+        "latitude": 45.434497,
+        "longitude": -75.6813393,
+        "sector": "Central",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Lynwood Community Building",
+        "address": "Lynwood Community Building, 7, Sycamore Drive",
+        "latitude": 45.3195269,
+        "longitude": -75.8218722,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Maki House Community Bldng.",
+        "address": "Bayne Avenue, City View, College",
+        "latitude": 45.3515703,
+        "longitude": -75.7353177,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Manordale Public School",
+        "address": "Manordale Public School, 16, Carola Street",
+        "latitude": 45.3291443,
+        "longitude": -75.7597491,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Manotick Community Centre",
+        "address": "Ottawa Police - Manotick Community Police Centre, 5669, Manotick Main Street",
+        "latitude": 45.219711,
+        "longitude": -75.6743968,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Manotick Public School",
+        "address": "Manotick Public School, 1075, Bridge Street",
+        "latitude": 45.2298646,
+        "longitude": -75.6829266,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Maplewood Secondary School",
+        "address": "Maplewood Secondary School, Embankment Street, Fernbank Community",
+        "latitude": 45.2659773,
+        "longitude": -75.8907221,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Margaret Rywak Community Building",
+        "address": "Ottawa Hungarian Community Centre, 43, Capital Drive",
+        "latitude": 45.3217825,
+        "longitude": -75.7202763,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "McCarthy Park",
+        "address": "McCarthy Park, 3220, River",
+        "latitude": 45.3512174,
+        "longitude": -75.6742752,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "McKellar Park",
+        "address": "McKellar Park, 539, Bay",
+        "latitude": 45.3828688,
+        "longitude": -75.7654867,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "McNabb Recreation Centre",
+        "address": "McNabb Recreation Centre, 180, Percy Street",
+        "latitude": 45.4092335,
+        "longitude": -75.7018098,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Meadowlands Public School",
+        "address": "Meadowlands Public School, 10, Fieldrow Street",
+        "latitude": 45.3448537,
+        "longitude": -75.7365176,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Metcalfe Community Centre",
+        "address": "Metcalfe Community Centre & Larry Robinson Arena, 2785, 8th Line Road",
+        "latitude": 45.229786,
+        "longitude": -75.4687646,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Michele Heights Community Centre",
+        "address": "Michele Heights Community Centre, 2955, Michèle Drive",
+        "latitude": 45.354627,
+        "longitude": -75.8020142,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Mino Mikan Elementary School",
+        "address": "Mino Mikan Elementary School, 820, Miikana Road",
+        "latitude": 45.3106265,
+        "longitude": -75.5945996,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Minto Recreation Complex-Barrhaven",
+        "address": "Minto Recreation Complex, 3500, Cambrian Road",
+        "latitude": 45.2529722,
+        "longitude": -75.7345312,
+        "sector": "South",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Mooney's Bay Park",
+        "address": "Mooney's Bay Park, 2960, River",
+        "latitude": 45.3678805,
+        "longitude": -75.6924625,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Munster Community Center",
+        "address": "Munster Community Centre, 58, Dogwood Drive",
+        "latitude": 45.1628158,
+        "longitude": -75.9387774,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Munster Elementary School",
+        "address": "Munster Elementary School (Closed), 7816, Rideau-Jock",
+        "latitude": 45.1628479,
+        "longitude": -75.9413628,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Navan Memorial Community Centre",
+        "address": "25122, 1295, Colonial Road",
+        "latitude": 45.4210808,
+        "longitude": -75.4217732,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Nepean Creative Arts Centre",
+        "address": "Nepean Creative Arts Centre, Stafford Road, Lynwood Village",
+        "latitude": 45.3286628,
+        "longitude": -75.8220962,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Nepean Museum",
+        "address": "Nepean Museum, 16, Rowley Avenue",
+        "latitude": 45.349153,
+        "longitude": -75.7414766,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Nepean Seniors Center",
+        "address": "25195, 1701, Woodroffe Avenue",
+        "latitude": 45.3271407,
+        "longitude": -75.7436708,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Nepean Sportsplex",
+        "address": "Nepean Sportsplex, 1701, Woodroffe Avenue",
+        "latitude": 45.3271242,
+        "longitude": -75.745292,
+        "sector": "South",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Nepean Visual Arts Centre",
+        "address": "25195, 1701, Woodroffe Avenue",
+        "latitude": 45.3271407,
+        "longitude": -75.7436708,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Notre Dame Des Champs Community Hall",
+        "address": "25102, 3659, Navan Road",
+        "latitude": 45.4276182,
+        "longitude": -75.4916028,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Old Town Hall (Kanata)",
+        "address": "Old March Town Hall Park, 821, Kanata",
+        "latitude": 45.3553275,
+        "longitude": -75.9340776,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Osgoode Community Centre",
+        "address": "Osgoode Community Centre, 5660, Osgoode",
+        "latitude": 45.1475196,
+        "longitude": -75.6013364,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Osgoode Township High School",
+        "address": "Osgoode Township High School, 2800, 8th Line Road",
+        "latitude": 45.2286731,
+        "longitude": -75.4712179,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Overbrook Community Centre",
+        "address": "Overbrook Community Centre, 33, Quill Street",
+        "latitude": 45.4254727,
+        "longitude": -75.656847,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Overbrook Park",
+        "address": "Overbrook Park, 33, Rideau-Rockcliffe",
+        "latitude": 45.4254264,
+        "longitude": -75.6561841,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Owl Park",
+        "address": "Owl Park, 215, River",
+        "latitude": 45.354851,
+        "longitude": -75.663835,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Pat Clark Community Centre",
+        "address": "Pat Clark Community Centre, 4355, Halmont Drive",
+        "latitude": 45.4288395,
+        "longitude": -75.6196839,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Pinecrest Park",
+        "address": "Pinecrest Recreation Complex and Park, 2250, College",
+        "latitude": 45.349283,
+        "longitude": -75.7743064,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Pinecrest Public School",
+        "address": "Pinecrest Public School, 1281, McWatters Road",
+        "latitude": 45.3443641,
+        "longitude": -75.7847822,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Pinecrest Recreation Complex",
+        "address": "Pinecrest Recreation Complex, 2250, Torquay Avenue",
+        "latitude": 45.347811,
+        "longitude": -75.7733588,
+        "sector": "South",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Pinhey's Point Historic Site",
+        "address": "Pinhey Point, Kanata, West Carleton-March",
+        "latitude": 45.4423359,
+        "longitude": -75.9521295,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Plant Recreation Centre",
+        "address": "Plant Recreation Centre, 930, Somerset Street West",
+        "latitude": 45.407761,
+        "longitude": -75.7145989,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Public Education Training Centre",
+        "address": "Ottawa, Eastern Ontario, Ontario",
+        "latitude": 45.4208777,
+        "longitude": -75.6901106,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Queen Elizabeth Public School",
+        "address": "Queen Elizabeth Public School, 689, St-Laurent Boulevard",
+        "latitude": 45.4383902,
+        "longitude": -75.6438135,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "R.J. Kennedy Arena and Community Hall",
+        "address": "1115, Dunning Road, Orléans East-Cumberland",
+        "latitude": 45.514576,
+        "longitude": -75.4034726,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Ray Friel Recreation Complex",
+        "address": "Ray Friel Recreation Complex, Tenth Line Road, Fallingbrook",
+        "latitude": 45.472016,
+        "longitude": -75.4925898,
+        "sector": "East",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Richcraft Recreation Complex-Kanata",
+        "address": "Richcraft Recreation Complex, 4101, Kanata",
+        "latitude": 45.3406635,
+        "longitude": -75.9302469,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Richelieu-Vanier Community Centre",
+        "address": "Richelieu-Vanier Community Centre, 300, Pères-Blancs Avenue",
+        "latitude": 45.4437425,
+        "longitude": -75.6596045,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Richmond Lions Community Park",
+        "address": "Richmond Lions Community Park, 3302, Rideau-Jock",
+        "latitude": 45.1978742,
+        "longitude": -75.8438068,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Richmond Memorial Community Centre",
+        "address": "Richmond Arena & Community Centre, 6095, Perth Street",
+        "latitude": 45.1956605,
+        "longitude": -75.8378092,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Richmond Public School",
+        "address": "Richmond Public School, 3499, McBean Street",
+        "latitude": 45.1923672,
+        "longitude": -75.8351982,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Rideauview Community Centre",
+        "address": "Rideauview Community Centre, 4310, Shoreline Drive",
+        "latitude": 45.2773625,
+        "longitude": -75.6874545,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Ridgemont High School",
+        "address": "Ridgemont High School, 2597, Alta Vista Drive",
+        "latitude": 45.3761893,
+        "longitude": -75.6587981,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Roberta Bondar Public School",
+        "address": "Roberta Bondar Public School, 159, Lorry Greenberg Drive",
+        "latitude": 45.3666131,
+        "longitude": -75.6277526,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Rockcliffe Park Community Centre",
+        "address": "25005, 380, Springfield Road",
+        "latitude": 45.4507679,
+        "longitude": -75.6781551,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Ron Kolbus Lakeside Centre",
+        "address": "Ron Kolbus-Lakeside Centre, 120, Greenview Avenue",
+        "latitude": 45.3638966,
+        "longitude": -75.8014385,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Routhier Community Centre",
+        "address": "Routhier Community Centre, 172, Guigues Avenue",
+        "latitude": 45.4320568,
+        "longitude": -75.6916059,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "S.S.#1 Community Centre",
+        "address": "S.S. #1 Community Centre, 400, Goldridge Drive",
+        "latitude": 45.3175445,
+        "longitude": -75.9217325,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Sandy Hill Arena",
+        "address": "Sandy Hill Arena, 60, Sandy Hill",
+        "latitude": 45.4193888,
+        "longitude": -75.6744346,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Sandy Hill Community Centre",
+        "address": "Sandy Hill Community Centre, 250, Somerset Street East",
+        "latitude": 45.42278,
+        "longitude": -75.6776225,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Sawmill Creek Pool and Community Centre",
+        "address": "Sawmill Creek Pool and Community Centre, 3380, D'Aoust Avenue",
+        "latitude": 45.349717,
+        "longitude": -75.6363384,
+        "sector": "South",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Shenkman Arts Centre",
+        "address": "Shenkman Arts Centre, 245, Centrum Boulevard",
+        "latitude": 45.48064,
+        "longitude": -75.5112913,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Sir Robert Borden High School",
+        "address": "Sir Robert Borden High School, 131, Greenbank Road",
+        "latitude": 45.3326849,
+        "longitude": -75.7813158,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Sir Wilfrid Laurier Secondary School",
+        "address": "Sir Wilfrid Laurier Secondary School, 1515, Tenth Line Road",
+        "latitude": 45.4740117,
+        "longitude": -75.4934434,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "South Carleton High School",
+        "address": "South Carleton High School, 3673, McBean Street",
+        "latitude": 45.1868625,
+        "longitude": -75.8275211,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "South Fallingbrook Community Centre",
+        "address": "South Fallingbrook Community Centre, 998, Valin Street",
+        "latitude": 45.4711395,
+        "longitude": -75.4619464,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Southpointe Community Building",
+        "address": "Southpointe Community Centre, 220, Stoneway Drive",
+        "latitude": 45.2881244,
+        "longitude": -75.7160634,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Splash Wave Pool",
+        "address": "Splash Wave Pool, 2040, Ogilvie Road",
+        "latitude": 45.4375787,
+        "longitude": -75.6003735,
+        "sector": "East",
+        "has_pool": true,
+        "has_arena": false
+    },
+    {
+        "facility_name": "St-Laurent Complex",
+        "address": "St Laurent Complex, 515, Côté Street",
+        "latitude": 45.4365285,
+        "longitude": -75.6470419,
+        "sector": "Central",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "St. Emily School",
+        "address": "St. Emily School, 500, Chapman Mills Drive",
+        "latitude": 45.271304,
+        "longitude": -75.7242359,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "St. Germain Park (Sandy Hill Community Centre)",
+        "address": "Sandy Hill Community Centre, 250, Somerset Street East",
+        "latitude": 45.42278,
+        "longitude": -75.6776225,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "St. Juan Diego School",
+        "address": "St. Juan Diego Catholic Elementary School, 135, Main Halyard Lane",
+        "latitude": 45.2492403,
+        "longitude": -75.7592013,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "St. Michael School, Fitzroy",
+        "address": "St. Michael, Fitzroy School, 159",
+        "latitude": 45.471542,
+        "longitude": -76.2160731,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Stonecrest Elementary School",
+        "address": "Stonecrest Elementary School, 3791, Stonecrest Road",
+        "latitude": 45.4351664,
+        "longitude": -76.1154954,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Stuemer Park/Petrie Island",
+        "address": "Petrie Island Park, 727, Orléans",
+        "latitude": 45.4993956,
+        "longitude": -75.5014522,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Tanglewood Community Building",
+        "address": "Tanglewood Park Community Centre, 30, Woodfield Drive",
+        "latitude": 45.3365865,
+        "longitude": -75.7303503,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Terry Fox Athletic Facility",
+        "address": "Terry Fox Stadium, 2960, Riverside Drive",
+        "latitude": 45.3703693,
+        "longitude": -75.6923012,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Tom Brown Arena",
+        "address": "Tom Brown Arena, 141, Hintonburg",
+        "latitude": 45.408068,
+        "longitude": -75.7220263,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Tony Graham Community Park",
+        "address": "Kanata Recreation Centre, 100, Charlie Rogers Place",
+        "latitude": 45.2942511,
+        "longitude": -75.9015989,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Tony Graham Recreation Complex-Kanata",
+        "address": "Kanata Recreation Centre, 100, Charlie Rogers Place",
+        "latitude": 45.2942511,
+        "longitude": -75.9015989,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Trend Arlington Community Building",
+        "address": "Trend-Arlington Community Centre, 50, Bellman Drive",
+        "latitude": 45.3269937,
+        "longitude": -75.7831272,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Trillium Elementary School",
+        "address": "Trillium Elementary School, 1515, Varennes Boulevard",
+        "latitude": 45.479142,
+        "longitude": -75.4730244,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Vernon Recreation Centre",
+        "address": "Vernon Recreation Centre, 7950, Osgoode",
+        "latitude": 45.1628048,
+        "longitude": -75.4539474,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Vimy Ridge Public School",
+        "address": "Vimy Ridge Public School, 4180, Kelly Farm Drive",
+        "latitude": 45.3166037,
+        "longitude": -75.6019602,
+        "sector": "East",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Vincent Massey Public School",
+        "address": "Vincent Massey Public School, 745, Smyth Road",
+        "latitude": 45.4011312,
+        "longitude": -75.6362819,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "W. Erskine Johnston Arena",
+        "address": "W. Erskine Johnston Arena & Community Centre, 3832, Carp Road",
+        "latitude": 45.3491435,
+        "longitude": -76.0388612,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "W.O. Mitchell Elementary School",
+        "address": "W.O. Mitchell Elementary School, 80, Steeple Chase Drive",
+        "latitude": 45.2994944,
+        "longitude": -75.8565502,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "Walter Baker Sports Centre",
+        "address": "Walter Baker Sports Centre, 100, Malvern Drive",
+        "latitude": 45.2802935,
+        "longitude": -75.7617354,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": true
+    },
+    {
+        "facility_name": "West Carleton Community Complex",
+        "address": "West Carleton Community Complex, 5670, Carp Road",
+        "latitude": 45.415859,
+        "longitude": -76.1474084,
+        "sector": "West",
+        "has_pool": true,
+        "has_arena": true
+    },
+    {
+        "facility_name": "Westcliffe Community Building",
+        "address": "Westcliffe Community Centre, 681, Seyton Drive",
+        "latitude": 45.3154373,
+        "longitude": -75.8354238,
+        "sector": "West",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "École secondaire catholique Pierre-Savard",
+        "address": "Pierre-Savard Catholic Secondary School, 1110, Longfields Drive",
+        "latitude": 45.273587,
+        "longitude": -75.7360128,
+        "sector": "South",
+        "has_pool": false,
+        "has_arena": false
+    },
+    {
+        "facility_name": "École élémentaire publique Francojeunesse",
+        "address": "École élémentaire publique Francojeunesse, 119, Osgoode Street",
+        "latitude": 45.4245583,
+        "longitude": -75.6804593,
+        "sector": "Central",
+        "has_pool": false,
+        "has_arena": false
+    }
+]
