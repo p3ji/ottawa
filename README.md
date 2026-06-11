@@ -1,8 +1,8 @@
 ---
 title: Ottawa Summer Camps
 emoji: ⛺
-colorFrom: teal
-colorTo: slate
+colorFrom: green
+colorTo: indigo
 sdk: docker
 app_port: 8501
 pinned: false
