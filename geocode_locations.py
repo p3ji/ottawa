@@ -274,14 +274,24 @@ def has_pool_check(name):
     return any(k in name_l for k in pool_keywords)
 
 def has_arena_check(name):
-    # Arena keyword detection
-    name_l = name.lower()
-    if any(k in name_l for k in ["community centre", "community center", "seniors center", "seniors centre", "arts centre", "visual arts", "creative arts", "heritage", "museum", "school", "park", "atrium", "hall", "building", "bldng"]):
-        # Only true if "arena", "rink", or "dome" is explicitly in it, or is a complex/sportsplex
-        return any(k in name_l for k in ["arena", "rink", "complex", "sportsplex", "dome"])
-    
-    arena_keywords = ["arena", "rink", "complex", "sportsplex", "dome", "centre", "center"]
-    return any(k in name_l for k in arena_keywords)
+    # Strict list of valid arena facilities based on official City of Ottawa drop-skating locations list
+    arena_facilities = {
+        "Bob MacQuarrie Recreation Complex - Orléans",
+        "Ray Friel Recreation Complex",
+        "St-Laurent Complex",
+        "Canterbury Recreation Complex",
+        "Jim Durrell Recreation Centre",
+        "Sandy Hill Arena",
+        "Tom Brown Arena",
+        "Fred G. Barrett Arena",
+        "Minto Recreation Complex-Barrhaven",
+        "Walter Baker Sports Centre",
+        "CardelRec Complex (Goulbourn)",
+        "Nepean Sportsplex",
+        "Pinecrest Recreation Complex",
+        "Tony Graham Recreation Complex-Kanata"
+    }
+    return name in arena_facilities
 
 def main():
     json_path = "locations_data.json"
@@ -305,7 +315,10 @@ def main():
         if name in cached_data:
             # Re-geocode if the cached entry was a fallback to City Hall
             if "fallback" not in cached_data[name]["address"].lower():
-                results.append(cached_data[name])
+                cached_item = cached_data[name]
+                cached_item["has_pool"] = has_pool_check(name)
+                cached_item["has_arena"] = has_arena_check(name)
+                results.append(cached_item)
                 continue
             
         query = clean_name_for_query(name)
@@ -374,6 +387,10 @@ def main():
             
         # Respect Nominatim API usage policy limits (minimum 1 second between requests)
         time.sleep(1.2)
+        
+    # Save cache outside the loop to write all updates (including cache-hit updates) to disk
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(list(cached_data.values()), f, indent=4, ensure_ascii=False)
         
     print(f"Finished geocoding! Saved {len(results)} locations to {json_path}")
 

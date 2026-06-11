@@ -6,7 +6,7 @@
         "longitude": -75.6478005,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Alexander Community Centre",
@@ -24,7 +24,7 @@
         "longitude": -75.7108657,
         "sector": "South",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Alta Vista Public School",
@@ -123,7 +123,7 @@
         "longitude": -75.810951,
         "sector": "West",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Bell High School",
@@ -195,7 +195,7 @@
         "longitude": -75.6905204,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Brewer Pool",
@@ -285,7 +285,7 @@
         "longitude": -75.7391157,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Carp Memorial Hall",
@@ -321,7 +321,7 @@
         "longitude": -75.6867699,
         "sector": "Central",
         "has_pool": true,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Chapman Mills Community Building",
@@ -348,7 +348,7 @@
         "longitude": -75.7544879,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Collège catholique Franco-Ouest",
@@ -456,7 +456,7 @@
         "longitude": -75.6013395,
         "sector": "East",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Entrance Pool",
@@ -537,7 +537,7 @@
         "longitude": -75.4633271,
         "sector": "East",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Fred G. Barrett Arena",
@@ -708,7 +708,7 @@
         "longitude": -75.7465148,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Jack Charron Arena",
@@ -717,7 +717,7 @@
         "longitude": -75.8839162,
         "sector": "West",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Jack Purcell Community Centre",
@@ -753,7 +753,7 @@
         "longitude": -75.8956053,
         "sector": "West",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Johnny Leroux Stittsville Community Arena",
@@ -762,7 +762,7 @@
         "longitude": -75.9267004,
         "sector": "West",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Jules Morin Park",
@@ -789,7 +789,7 @@
         "longitude": -75.8991301,
         "sector": "West",
         "has_pool": true,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Katimavik Outdoor Pool",
@@ -852,7 +852,7 @@
         "longitude": -75.5638226,
         "sector": "East",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Longfields-Davidson Heights Secondary School",
@@ -960,7 +960,7 @@
         "longitude": -75.7018098,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Meadowlands Public School",
@@ -1203,7 +1203,7 @@
         "longitude": -75.7145989,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Public Education Training Centre",
@@ -1212,7 +1212,7 @@
         "longitude": -75.6901106,
         "sector": "Central",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Queen Elizabeth Public School",
@@ -1230,7 +1230,7 @@
         "longitude": -75.4034726,
         "sector": "East",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Ray Friel Recreation Complex",
@@ -1248,7 +1248,7 @@
         "longitude": -75.9302469,
         "sector": "West",
         "has_pool": true,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Richelieu-Vanier Community Centre",
@@ -1329,7 +1329,7 @@
         "longitude": -75.8014385,
         "sector": "West",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Routhier Community Centre",
@@ -1572,7 +1572,7 @@
         "longitude": -75.4539474,
         "sector": "East",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Vimy Ridge Public School",
@@ -1599,7 +1599,7 @@
         "longitude": -76.0388612,
         "sector": "West",
         "has_pool": false,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "W.O. Mitchell Elementary School",
@@ -1626,7 +1626,7 @@
         "longitude": -76.1474084,
         "sector": "West",
         "has_pool": true,
-        "has_arena": true
+        "has_arena": false
     },
     {
         "facility_name": "Westcliffe Community Building",

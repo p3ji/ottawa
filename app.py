@@ -184,7 +184,7 @@ def get_facilities_data():
             "latitude": 45.4243,
             "longitude": -75.6417,
             "has_pool": True,
-            "has_arena": False
+            "has_arena": True
         },
         {
             "facility_name": "Ray Friel Recreation Complex",
@@ -229,7 +229,7 @@ def get_facilities_data():
             "latitude": 45.4107,
             "longitude": -75.7029,
             "has_pool": False,
-            "has_arena": True
+            "has_arena": False
         },
         {
             "facility_name": "Bob MacQuarrie Recreation Complex-Orléans",
@@ -241,13 +241,13 @@ def get_facilities_data():
             "has_arena": True
         },
         {
-            "facility_name": "Brewer Pool and Arena",
+            "facility_name": "Brewer Pool",
             "address": "100 Brewer Way, Ottawa, ON K1S 5T1",
             "sector": "Central",
             "latitude": 45.3892,
             "longitude": -75.6967,
             "has_pool": True,
-            "has_arena": True
+            "has_arena": False
         },
         {
             "facility_name": "Canterbury Recreation Complex",
