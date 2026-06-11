@@ -371,7 +371,7 @@ home_resolved_name = ""
 
 # Determine coordinates based on input priority
 if address_input.strip():
-    with st.sidebar.spinner("Geocoding address..."):
+    with st.spinner("Geocoding address..."):
         resolved = geocode_custom_address(address_input)
         if resolved:
             home_lat, home_lon, home_resolved_name = resolved
