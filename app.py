@@ -664,9 +664,9 @@ if not df_filtered.empty:
         display_df["Drive Time"] = display_df["drive_time_mins"].apply(lambda x: f"🚗 {x} mins" if x is not None else "N/A")
         display_df["Road Distance"] = display_df["road_distance_km"].apply(lambda x: f"🛣️ {x} km" if x is not None else "N/A")
         
-    # Generate Google Maps search URL for each facility
-    display_df["Google Maps"] = display_df.apply(
-        lambda r: f"https://www.google.com/maps/search/?api=1&query={urllib.parse.quote(r['facility_name'] + ', ' + r['address'])}",
+    # Generate Google Maps search URL with Address hash for dynamic LinkColumn display text
+    display_df["Address"] = display_df.apply(
+        lambda r: f"https://www.google.com/maps/search/?api=1&query={urllib.parse.quote(r['facility_name'] + ', ' + r['address'])}#{r['address']}",
         axis=1
     )
     
@@ -674,15 +674,14 @@ if not df_filtered.empty:
     display_df = display_df.rename(columns={
         "facility_name": "Facility Name",
         "sector": "Sector",
-        "distance_km": "Straight-line (km)",
-        "address": "Address"
+        "distance_km": "Straight-line (km)"
     })
     
     # Select specific columns to show
     if has_road:
-        show_cols = ["Facility Name", "Sector", "Drive Time", "Road Distance", "Straight-line (km)", "Pool", "Arena", "Google Maps", "Address"]
+        show_cols = ["Facility Name", "Sector", "Drive Time", "Road Distance", "Straight-line (km)", "Pool", "Arena", "Address"]
     else:
-        show_cols = ["Facility Name", "Sector", "Straight-line (km)", "Pool", "Arena", "Google Maps", "Address"]
+        show_cols = ["Facility Name", "Sector", "Straight-line (km)", "Pool", "Arena", "Address"]
     
     # Styled Streamlit DataFrame
     st.dataframe(
@@ -693,8 +692,8 @@ if not df_filtered.empty:
             "Straight-line (km)": st.column_config.NumberColumn(
                 format="%.1f km"
             ),
-            "Google Maps": st.column_config.LinkColumn(
-                display_text="🗺️ Open Maps ↗"
+            "Address": st.column_config.LinkColumn(
+                display_text=r"#(.*)"
             )
         }
     )
