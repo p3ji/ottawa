@@ -11,3 +11,5 @@ pinned: false
 # Ottawa Recreation Discovery Map
 
 A visual discovery tool for parents to find new facilities by proximity, amenities, and sectors.
+
+Direct link to the app: [https://p3ji-p3ji.hf.space](https://p3ji-p3ji.hf.space)
