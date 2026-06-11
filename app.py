@@ -551,7 +551,16 @@ st.markdown("### 🗺️ Facility Spatial Planner")
 # Creating folium map centered on current origin
 map_center = [home_lat, home_lon]
 # Initialize map with standard Cartodb Positron tile (modern, elegant, high contrast light map)
-m = folium.Map(location=map_center, zoom_start=11, tiles="cartodbpositron")
+# Restrict zoom and set max bounds to Ottawa bounds to improve performance and focus the viewport
+ottawa_bounds = [[44.75, -76.45], [45.60, -74.95]]
+m = folium.Map(
+    location=map_center, 
+    zoom_start=11, 
+    tiles="cartodbpositron",
+    min_zoom=9,
+    max_zoom=17,
+    max_bounds=ottawa_bounds
+)
 
 # Plot Home Location
 home_tooltip = f"<b>Your Start Location</b><br>{home_resolved_name}"
