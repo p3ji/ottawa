@@ -229,7 +229,7 @@ def get_facilities_data():
             "latitude": 45.4107,
             "longitude": -75.7029,
             "has_pool": False,
-            "has_arena": False
+            "has_arena": True
         },
         {
             "facility_name": "Bob MacQuarrie Recreation Complex-Orléans",

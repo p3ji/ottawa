@@ -274,22 +274,38 @@ def has_pool_check(name):
     return any(k in name_l for k in pool_keywords)
 
 def has_arena_check(name):
-    # Strict list of valid arena facilities based on official City of Ottawa drop-skating locations list
+    # Strict list of valid arena facilities based on official City of Ottawa and ottawapublicskating.ca lists
     arena_facilities = {
+        "Bell Centennial Arena",
         "Bob MacQuarrie Recreation Complex - Orléans",
-        "Ray Friel Recreation Complex",
-        "St-Laurent Complex",
+        "Brewer Arena",
         "Canterbury Recreation Complex",
-        "Jim Durrell Recreation Centre",
-        "Sandy Hill Arena",
-        "Tom Brown Arena",
-        "Fred G. Barrett Arena",
-        "Minto Recreation Complex-Barrhaven",
-        "Walter Baker Sports Centre",
         "CardelRec Complex (Goulbourn)",
+        "Earl Armstrong Arena",
+        "Fred G. Barrett Arena",
+        "Jack Charron Arena",
+        "Jim Durrell Recreation Centre",
+        "John G. Mlacak Centre/Kanata Seniors' Centre",
+        "Johnny Leroux Stittsville Community Arena",
+        "Lansdowne Park",
+        "Lois Kemp Arena",
+        "Manotick Community Centre",
+        "McNabb Recreation Centre",
+        "Metcalfe Community Centre",
+        "Minto Recreation Complex-Barrhaven",
+        "Navan Memorial Community Centre",
         "Nepean Sportsplex",
+        "Osgoode Community Centre",
         "Pinecrest Recreation Complex",
-        "Tony Graham Recreation Complex-Kanata"
+        "R.J. Kennedy Arena and Community Hall",
+        "Ray Friel Recreation Complex",
+        "Richmond Memorial Community Centre",
+        "Sandy Hill Arena",
+        "St-Laurent Complex",
+        "Tom Brown Arena",
+        "Tony Graham Recreation Complex-Kanata",
+        "W. Erskine Johnston Arena",
+        "Walter Baker Sports Centre"
     }
     return name in arena_facilities
 
